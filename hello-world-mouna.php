@@ -5,7 +5,7 @@
 
 
 function create ($articleDetails) {
-    
+    //Done
 }
 
 ?>
